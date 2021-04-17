@@ -8,6 +8,6 @@ Simple distance Converter using Java Swing,
 
 ---
 ### Distance Converter Lite Mode
-![DC-Pages](https://github.com/TaneemKazi/DistanceConverter/blob/main/Screenshots/DC-Dark.PNG)
+![DC-Page](https://github.com/TaneemKazi/DistanceConverter/blob/main/Screenshots/DC-Dark.PNG)
 
 ---
